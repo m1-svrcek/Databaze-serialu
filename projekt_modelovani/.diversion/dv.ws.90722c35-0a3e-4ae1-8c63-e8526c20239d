@@ -1,0 +1,14 @@
+{
+  "WorkspaceID": "dv.ws.90722c35-0a3e-4ae1-8c63-e8526c20239d",
+  "RepoID": "dv.repo.02b29c59-8e26-4876-9226-fd2fccb2efca",
+  "Path": "C:\\Users\\magnu\\Downloads\\projekt_modelovani",
+  "AccountID": "Google_117036993515523070219",
+  "BranchID": "dv.branch.1",
+  "BranchName": "main",
+  "CommitID": "dv.commit.1",
+  "Paused": false,
+  "ShouldDownload": true,
+  "RepoName": "seminarka",
+  "ReadOnly": false,
+  "DigestMethod": "sha1"
+}
